@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sonnaa.sahani@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1E1QKXeRRuI_oTajnydWYDiKLoihulHYjxWGbbKlRZ3I/edit](https://docs.google.com/document/d/1E1QKXeRRuI_oTajnydWYDiKLoihulHYjxWGbbKlRZ3I/edit)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1E1QKXeRRuI_oTajnydWYDiKLoihulHYjxWGbbKlRZ3I/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
