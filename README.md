@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Sonali Sahany</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-sahani&label=Profile%20views&color=0e75b6&style=flat" alt="sonali-sahani" /> </p>
 
